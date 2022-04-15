@@ -1,2 +1,18 @@
-﻿  LINK : C:\Users\igory\source\repos\TestingC-CPP\x64\Debug\SpinningDonut.exe not found or not built by the last incremental link; performing full link
-  SpinningDonut.vcxproj -> C:\Users\igory\source\repos\TestingC-CPP\x64\Debug\SpinningDonut.exe
+﻿  Spin.c
+C:\Users\VivoBook\source\repos\TestingC-CPP\SpinningDonut\Spin.c(15,40): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\VivoBook\source\repos\TestingC-CPP\SpinningDonut\Spin.c(16,44): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\VivoBook\source\repos\TestingC-CPP\SpinningDonut\Spin.c(41,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\VivoBook\source\repos\TestingC-CPP\SpinningDonut\Spin.c(42,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\VivoBook\source\repos\TestingC-CPP\SpinningDonut\Spin.c(17,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\VivoBook\source\repos\TestingC-CPP\SpinningDonut\Spin.c(18,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\VivoBook\source\repos\TestingC-CPP\SpinningDonut\Spin.c(19,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\VivoBook\source\repos\TestingC-CPP\SpinningDonut\Spin.c(20,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\VivoBook\source\repos\TestingC-CPP\SpinningDonut\Spin.c(21,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\VivoBook\source\repos\TestingC-CPP\SpinningDonut\Spin.c(24,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\VivoBook\source\repos\TestingC-CPP\SpinningDonut\Spin.c(25,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\VivoBook\source\repos\TestingC-CPP\SpinningDonut\Spin.c(26,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\VivoBook\source\repos\TestingC-CPP\SpinningDonut\Spin.c(28,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\VivoBook\source\repos\TestingC-CPP\SpinningDonut\Spin.c(29,28): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\VivoBook\source\repos\TestingC-CPP\SpinningDonut\Spin.c(31,27): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  SpinningDonut.cpp
+  SpinningDonut.vcxproj -> C:\Users\VivoBook\source\repos\TestingC-CPP\x64\Debug\SpinningDonut.exe
